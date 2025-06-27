@@ -21,10 +21,8 @@ author: "Sunidhi Dixit"
 
 # Build settings
 #remote_theme: daattali/beautiful-jekyll
-#remote_theme: mmistakes/minimal-mistakes
-#minimal_mistakes_skin: "dark"
-remote_theme: cotes2020/jekyll-theme-chirpy
-
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "dark"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag

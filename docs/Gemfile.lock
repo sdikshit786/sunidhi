@@ -273,8 +273,12 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  github-pages (~> 232)
-  jekyll-feed (~> 0.6)
+  github-pages
+  jekyll
+  jekyll-feed
+  jekyll-paginate
+  jekyll-seo-tag
+  jekyll-sitemap
   jekyll-theme-cayman
   kramdown-parser-gfm
   minima (~> 2.0)

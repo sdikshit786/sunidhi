@@ -4,7 +4,6 @@ title: ""
 ---
 
 <div align="center">
-  <img src="/assets/sunidhi.png" alt="" width="180" style="border-radius: 50%; box-shadow: 0 4px 12px #aaa; margin-bottom: 1rem;">
   <h1 style="margin-top:0;">Hi, I'm <span style="color:#4F8A8B;">Sunidhi Dixit</span></h1>
   <p>
     <a href="https://www.linkedin.com/in/sunidhi-dixit/" target="_blank">
