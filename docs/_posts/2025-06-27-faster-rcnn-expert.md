@@ -5,7 +5,9 @@ date: 2025-06-27 22:19:00 +0530
 categories: [deep-learning, object-detection, ai, computer-vision, research]
 ---
 
-# Faster R-CNN: An Expert Deep Dive into Advanced Object Detection
+<script type="text/javascript" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script
 
 ## Introduction
 
