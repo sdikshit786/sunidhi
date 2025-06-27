@@ -5,10 +5,6 @@ date: 2025-06-27 22:19:00 +0530
 categories: [deep-learning, object-detection, ai, computer-vision, research]
 ---
 
-<script type="text/javascript" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-</script
-
 ## Introduction
 
 **Faster R-CNN**, introduced by Shaoqing Ren et al. in 2015, is a landmark in object detection, seamlessly combining speed and accuracy through the integration of region proposal and detection networks. This article offers a comprehensive, expert-level exploration of Faster R-CNN—covering architecture, training, mathematical foundations, implementation nuances, and its ongoing impact on computer vision.
