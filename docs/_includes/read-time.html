@@ -1,0 +1,8 @@
+{% assign words_per_minute = 200 %}
+{% assign word_count = content | strip_html | number_of_words %}
+{% if word_count <= 180 %}
+  {% assign read_time = "1 min" %}
+{% else %}
+  {% assign read_time = word_count | divided_by: words_per_minute | append: " mins" %}
+{% endif %}
+<span class="reading-time">{{ read_time }} read</span>

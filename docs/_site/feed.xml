@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-06-27T21:36:48+05:30</updated><id>http://localhost:4000/feed.xml</id><subtitle>Embedded Systems | AI/ML | IoT. Welcome to my blog.</subtitle><author><name>Sunidhi Dixit</name></author><entry><title type="html">Charting a Path of Innovation: My Journey in Embedded Systems, AI, and Beyond</title><link href="http://localhost:4000/about/innovation/embedded/ai-ml/projects/2025/06/27/creative-journey-sunidhi-dixit.html" rel="alternate" type="text/html" title="Charting a Path of Innovation: My Journey in Embedded Systems, AI, and Beyond" /><published>2025-06-27T12:00:00+05:30</published><updated>2025-06-27T12:00:00+05:30</updated><id>http://localhost:4000/about/innovation/embedded/ai-ml/projects/2025/06/27/creative-journey-sunidhi-dixit</id><content type="html" xml:base="http://localhost:4000/about/innovation/embedded/ai-ml/projects/2025/06/27/creative-journey-sunidhi-dixit.html"><![CDATA[<p>Welcome to my professional corner! I’m <strong>Sunidhi Dixit</strong>, a passionate embedded software engineer and AI enthusiast based in Pune, India. Fueled by curiosity and a relentless drive to create impactful solutions, I continuously push the boundaries of technology and innovation.</p>
+
+<hr />
+
+<h2 id="-my-guiding-philosophy">🌟 My Guiding Philosophy</h2>
+
+<ul>
+  <li><strong>Where Creativity Meets Engineering:</strong><br />
+I view technology as a dynamic canvas where creativity and engineering converge—whether it’s architecting resilient embedded systems, crafting intelligent IoT solutions, or pioneering advancements in AI and machine learning.</li>
+  <li><strong>Driven by Optimism and Excellence:</strong><br />
+Challenges inspire me to excel; I strive to surpass expectations and deliver meaningful results that make a difference.</li>
+  <li><strong>Collaborative Innovation:</strong><br />
+I believe the best breakthroughs happen through cross-disciplinary collaboration, tackling complex problems, and empowering teams to achieve collective success.</li>
+</ul>
+
+<hr />
+
+<h2 id="-career-highlights">🚀 Career Highlights</h2>
+
+<h3 id="vvdn-technologies-20242025"><strong>VVDN Technologies (2024–2025)</strong></h3>
+<ul>
+  <li><strong>Pioneering Video Analytics for Security Cameras</strong><br />
+Spearheaded the development of cutting-edge detection algorithms (YOLOv5, Retinaface, ByteTrack) alongside the AIML team, enhancing performance and reducing latency by 15%. Engineered a robust analytics engine for real-time object, head, and face detection on the Ambarella Cooper platform.</li>
+</ul>
+
+<h3 id="bosch-global-software-technologies-20222024"><strong>Bosch Global Software Technologies (2022–2024)</strong></h3>
+<ul>
+  <li><strong>Advancing In-Vehicle Infotainment Systems</strong><br />
+Enhanced graphics stacks (Wayland IVI extension, OpenGL, libvncserver) on IMX8 and R-Car platforms. Developed a high-precision C++ image comparison library (PSNR, SSIM) achieving 95% accuracy in visual defect detection, and crafted remote access tools for automotive displays.</li>
+</ul>
+
+<h3 id="volansys-technologies-20202022"><strong>Volansys Technologies (2020–2022)</strong></h3>
+<ul>
+  <li><strong>Driving IoT Gateway Upgrades &amp; Smart Solutions</strong><br />
+Led Yocto build system upgrades, enabled OTA capabilities, and integrated protocols such as OpenThread, MQTT, and BLE to deliver secure and efficient IoT and smart home systems.</li>
+  <li><strong>Innovating Safety with Smart Helmet for Firefighters</strong><br />
+Designed battery management and failsafe monitoring systems, integrating MIPI-DSI LCD drivers for critical safety applications.</li>
+  <li><strong>Enhancing Wireless Cabin Control &amp; Activity Tracking</strong><br />
+Developed wireless control systems and TCP client services for activity tracking devices, significantly improving user experience and operational efficiency.</li>
+</ul>
+
+<hr />
+
+<h2 id="️-technical-expertise">🛠️ Technical Expertise</h2>
+
+<ul>
+  <li><strong>Programming Languages:</strong> C, C++, Python, Shellscript</li>
+  <li><strong>Platforms:</strong> Ambarella, IMX, RCAR, Linux, Yocto</li>
+  <li><strong>Communication Protocols:</strong> UART, I2C, SPI, MQTT, BLE, OpenThread, TCP/IP, COAP, Onvif</li>
+  <li><strong>Tools &amp; Frameworks:</strong> Git, Docker, Jenkins, PlantUML, DocToolchain, Sphinx, Google Test, Jira</li>
+  <li><strong>Databases:</strong> MySQL, SQLite</li>
+</ul>
+
+<hr />
+
+<h2 id="-recognitions--achievements">🏆 Recognitions &amp; Achievements</h2>
+
+<ul>
+  <li><strong>BeingAgile:</strong> Honored for rapid learning and adaptability.</li>
+  <li><strong>WorkedCollaboratively:</strong> Instrumental in resolving critical field issues through cross-functional teamwork.</li>
+  <li><strong>Pat on The Back:</strong> Successfully resolved major upgrade challenges in CT200 independently.</li>
+  <li><strong>Emerging Star:</strong> Awarded for exceptional performance on the Smart Helmet project.</li>
+</ul>
+
+<hr />
+
+<h2 id="-ai--creative-synergy">🤖 AI &amp; Creative Synergy</h2>
+
+<p>I actively integrate AI and machine learning into my engineering practice, leveraging advanced AI tools (including GPT) to enhance my writing, problem-solving, and innovative content creation.</p>
+
+<hr />
+
+<h2 id="-personal-projects--contributions">📚 Personal Projects &amp; Contributions</h2>
+
+<ul>
+  <li><strong>AIML Initiatives:</strong> <a href="https://www.mygreatlearning.com/eportfolio/sunidhi-dixit">Explore my ePortfolio</a></li>
+  <li><strong>Open Source Contributions:</strong> <a href="https://github.com/sdikshit786">Visit my GitHub</a></li>
+</ul>
+
+<hr />
+
+<h2 id="-lets-connect">🌐 Let’s Connect</h2>
+
+<ul>
+  <li><a href="https://www.linkedin.com/in/sunidhi-dixit/">LinkedIn: Sunidhi Dixit</a></li>
+  <li><a href="https://github.com/sdikshit786">GitHub: sdikshit786</a></li>
+  <li>Email: sdikshit786@gmail.com</li>
+</ul>
+
+<hr />
+
+<p>Thank you for visiting! Dive into my articles and projects—each a milestone in my journey of innovation. Let’s connect, collaborate, and create the future together.</p>
+
+<p><em>Stay inspired. Stay innovative. Stay connected.</em></p>]]></content><author><name>Sunidhi Dixit</name></author><category term="about" /><category term="innovation" /><category term="embedded" /><category term="ai-ml" /><category term="projects" /><summary type="html"><![CDATA[Welcome to my professional corner! I’m Sunidhi Dixit, a passionate embedded software engineer and AI enthusiast based in Pune, India. Fueled by curiosity and a relentless drive to create impactful solutions, I continuously push the boundaries of technology and innovation.]]></summary></entry></feed>
