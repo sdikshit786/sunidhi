@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Faster R-CNN: An Expert Deep Dive into Advanced Object Detection"
 date: 2025-06-27 22:19:00 +0530
 categories: [deep-learning, object-detection, ai, computer-vision, research]
