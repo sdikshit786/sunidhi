@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ""
+title: "SD Blogs"
 email: "sdikshit786@gmail.com"
 description: "Embedded Systems | AI/ML | IoT. Welcome to my blog."
 author: "Sunidhi Dixit"
@@ -23,8 +23,8 @@ author: "Sunidhi Dixit"
 #remote_theme: daattali/beautiful-jekyll
 #remote_theme: mmistakes/minimal-mistakes
 #minimal_mistakes_skin: "dark"
-remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: "dark"
+remote_theme: cotes2020/jekyll-theme-chirpy
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
