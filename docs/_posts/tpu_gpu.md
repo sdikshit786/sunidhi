@@ -1,3 +1,10 @@
+---
+layout: post
+title: "TPU v/s GPU"
+date: 2025-10-07 20:19:00 +0530
+categories: [research]
+---
+
 # TPU vs GPU Deep Research: The Definitive 2025 Technical Analysis
 
 **A Comprehensive Comparison of Tensor Processing Units and Graphics Processing Units for AI Practitioners, Enterprise Decision-Makers, and Researchers**
