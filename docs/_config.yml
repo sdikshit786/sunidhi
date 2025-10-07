@@ -20,8 +20,8 @@ description: "Embedded Systems | AI/ML | IoT. Welcome to my blog."
 author: "Sunidhi Dixit"
 
 # Build settings
-#remote_theme: daattali/beautiful-jekyll
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: daattali/beautiful-jekyll
+#remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "dark"
 plugins:
   - jekyll-feed
